@@ -6,8 +6,8 @@
  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 Papalegba.org
 Papa.Legba.N.B.
-
-AMMA •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• MAMA
+[
+](https://chodum91.blogspot.com/2023/06/google-content.html?spref=fb&fbclid=IwAR1ZbUO1DJ61e7HmSaCGWy31OK6394QPyu4CRI0fvbdZk0SdVIBDygBp46s)AMMA •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• MAMA
 April 11, 2023
 •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}
 
