@@ -1,7 +1,14 @@
 - @Chodum91_[Chodum91-patch-6](https://chodum91.blogspot.com/2023/06/google-content.html?spref=fb&fbclid=IwAR0C7UitXgnHidGEBPftLjYbrkOz_3-_byKjEBT9Iu9FZgD9BumnxrSlKT4)-[ ](https://github.com/jducoeur/OPCompiler/blob/master/names.conf.proposed http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876xOuo186Va83V7dS9e1b88iaMdc679?src=navbar https://podcasts.apple.com/ca/podcast/this-week-in-startups/id315114957 https://newbrun506.blogspot.com/?m=1 https://podcasts.apple.com/ca/podcast/this-week-in-startups/id315114957
 - https://newbrun506.blogspot.com/?m=1https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(
--
-- https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(
+-Replying to 
+@NewBrun48352339
+ and 
+@davidlabrava
+https://howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0…•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• mics on pause once in builds thats with billions and it readsvalue = 123;
+Console.WriteLine(value.ToString("00000"));
+Console.WriteLine(String.Format("{0:00000}", value));
+value = 1.2;
+Console.WriteLine(value.ToString("0.00", CultureInfo.InvariantCulture));- https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(
 - https://user-images.githubusercontent.com/93821 375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
 - https://youtube.com/@White-Boy-Papalega.N.B www.tumblr.com Untitled 30 - 38 minutes @dark_rose@rainwizzard.blogger.com H
 - http.//www.rainwizzard.blog.spot.com @darkdose-75_rose@rainwizzard.blogger.com 
