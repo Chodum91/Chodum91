@@ -24,7 +24,12 @@ _{_~_•^^^• ¹♤³ www.rainwizzard@blogspot.com ¹♤³^^^•~}{0.0}{~•^^^
     });
  });
  </script>
- <div id="output"></div>
+Papa Legba.N.B <bbrainwizzard.nb@gmail.com>
+Attachments
+10:38 PM (2 minutes ago)
+to brucethepieman
+
+https://chodum91.blogspot.com/2023/06/google-content.html?spref=fb&fbclid=IwAR1ZbUO1DJ61e7HmSaCGWy31OK6394QPyu4CRI0fvbdZk0SdVIBDygBp46s)AMMA#c7338029016766742002_href~.^~+~^.~^brucethepieman@gmail.comwww.cyberlink.com <div id="output"></div>
 
     <div id="main" style="height:500px;border:1px solid #ccc;padding:10px;"></div>
     <div id="mainMap" style="height:500px;border:1px solid #ccc;padding:10px;"></div>
