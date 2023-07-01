@@ -205,6 +205,7 @@ null:b}catch(c){return null}},W=function(a){try{window.localStorage.setItem("nex
 )https://wwww.rainwizzard@blogspot.com
 
 
-<!---
-
---->
+<!---[[
+](https://user-images.githubusercontent.com/133468725/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0be.jpg)](https://newbrun1074.blogspot.com/2023/06/blog-post.html)https://newbrun1074.blogspot.com/2023/06/blog-post.html
+--->[
+](https://github.com/Chodum91/Papa.Legba.NB/,)https://github.com/Chodum91/Papa.Legba.NB/,
