@@ -1,5 +1,5 @@
 
-- @Chodum91_[Chodum91-patch-6](https://chodum91.blogspot.com/2023/06/google-content.html?spref=fb&fbclid=IwAR0C7UitXgnHidGEBPftLjYbrkOz_3-_byKjEBT9Iu9FZgD9BumnxrSlKT4)-[ ]-- (https://github.com/jducoeur/OPCompiler/blob/master/names.conf.proposed
+- @Chodum91_[[Chodum91](https://youtu.be/oh8zcbC_Dcw)-patch-6](https://chodum91.blogspot.com/2023/06/google-content.html?spref=fb&fbclid=IwAR0C7UitXgnHidGEBPftLjYbrkOz_3-_byKjEBT9Iu9FZgD9BumnxrSlKT4)-[ ]-- (https://github.com/jducoeur/OPCompiler/blob/master/names.conf.proposed
 - http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876xOuo186Va83V7dS9e1b88iaMdc679?src=navbar https://podcasts.apple.com/ca/podcast/this-week-in-startups/id315114957
 -  https://newbrun506.blogspot.com/?m=1 https://podcasts.apple.com/ca/podcast/this-week-in-startups/id315114957
 - https://newbrun506.blogspot.com/?m=1https://newbrun506.blogspot.com/search/label/.%[![image]
